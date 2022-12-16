@@ -1,9 +1,13 @@
+# About the Dataset
+
+```
 =============================================
 =          Kevin Pizarro Aguirre	    =
 =		   UTFSM		    =
 =    MSc. Electronic Engineering Student    =
 =           November 16th, 2022             =
 =============================================
+```
 
 This is a reduced version of the 
 TD-BRAIN-DATASET of Brain Clinics Foundation. 
