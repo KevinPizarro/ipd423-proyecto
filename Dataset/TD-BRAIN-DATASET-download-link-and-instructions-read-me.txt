@@ -1,0 +1,94 @@
+Thank you for your interest in the TDBRAIN dataset.
+
+———————
+
+INSTRUCTIONS FULL DATASET:
+
+FULL DATASET
+The Full TD BRAIN dataset is made available as a password protected zip file, named TD-BRAIN-DATASET.zip 
+Its size is about 54 GB.
+Required disk space
+When expanded, the TD-Brain dataset is about 120 GB, so if you're expanding the zip file to the same drive you downloaded it to you'll need at least 170Gb of free disk space.
+You can delete or archive (but not share) the zip file after successful expansion if you wish.
+
+1	Download:
+Go to WeTransfer:
+https://we.tl/t-lPJxWyARCr
+
+2	Unpack the zip file
+Double click (open) TD-BRAIN-DATASET.zip and enter the password (see below) when prompted to expand the zip file.
+Password
+[*8y099fG5-4< 
+
+———————
+
+INSTRUCTIONS SAMPLE DATASET:
+
+SAMPLE DATASET
+The TD BRAIN Sample Dataset contains a small portion of the full set, and is formatted identical to the full set, it is great for testing purposes.
+
+1	Download:
+a	Go to our Tresorit file storage:
+	https://web.tresorit.com/l/o1wCn#x7WFkaGtO3-aLCq1UjgSng
+
+b 	Verify your email address
+	Enter your email address and receive a six digit verification code in your mail.
+
+c	Enter the six digit code and download the TDBRAIN Sample dataset
+
+2	Unpack the zip file
+
+———————
+
+Please contact insights@brainclinics.com when you encounter a technical issue with the zip files. 
+Please describe your problem in detail. We'll do our best to help.
+
+———————
+
+You have been granted permission to download the TD BRAIN dataset under the following conditions:
+CONDITIONS
+
+I agree to the following terms:
+Data Use Agreement
+Brainclinics Foundation
+I request access to the TD-BRAIN dataset published in van Dijk et al. (The Two Decades - Brainclinics Research Archive for Insights in Neurophysiology (TD-BRAIN) database, Nature Scientific Data, 2021) via the website www.brainclinics.com/resources of the Brainclinics Foundation, Nijmegen, the Netherlands, and thereby agree to the following:
+	
+1	I will comply with all relevant rules and regulations imposed by my institution and my government. This possibly means my research needs to be approved or declared 
+	exempt by a committee that oversees research on human subjects, e.g. my Institutional Review Board or Ethics Committee.
+	
+2	I will not attempt to establish the identity of, neither attempt to contact any of the included human subjects nor link this data to any other database in a way that
+	 could result in identifiable information. I understand that under no circumstances will the key that would link these data to an individual’s personal information 
+	be provided to me under these Data Use Terms.
+	
+3	I will not redistribute or share the data with others, including individuals in my research group, unless they have independently applied, approved this DUA and been
+	granted access to this data via the brainclinics.com/resources.
+	
+4	I will not make changes to the raw data provided in the TD-BRAIN dataset.
+	
+5	I will give appropriate credit when using the data,
+	
+6	a) by providing a link to brainclinics.com/resources and including a reference to the van Dijk et al. (2021) publication.
+	
+7	b) Papers, book chapters, books, posters, oral presentations, and all other presentations of results derived from the data should acknowledge the origin of the data. 
+	Authors of publications or presentations using the data should cite relevant publications describing the methods developed and used by the Brainclinics Foundation to 
+	acquire and process the data. Neither the Brainclinics Foundation, nor the researchers that provide this data should be included as an author of publications or 
+	presentations if this authorship would be based solely on the use of this data.
+	
+8	The code is provided under the MIT open access license where you must give appropriate credit when using the code,
+	
+9	a) by providing a link to brainclinics.com/resources and including a reference to the van Dijk et al. (2021) publication, indicating if changes were made when 
+	publicly presenting any results or algorithms that benefitted from their use.
+	
+10	b) Papers, book chapters, books, posters, oral presentations, and all other presentations of results derived from the data should acknowledge the origin of the data. 
+	Authors of publications or presentations using the code should cite relevant publications describing the methods developed and used by the Brainclinics Foundation to 
+	process the data. Neither the Brainclinics Foundation, nor the researchers that provide this code should be included as an author of publications or presentations if 
+	this authorship would be based solely on the use of this code.
+	
+11	c) If the material is remixed, transformed, or build upon, I will distribute my contributions under the same license as the original.
+	
+12	I do not have to comply with the license for elements of the material in the public domain or where my use is permitted by an applicable exception or limitation.
+	
+13	I understand that no warranties are given. The license may not give all of the permissions necessary for my intended use. For example, other rights such as publicity, 
+	privacy, or moral rights may limit how the material can be used.
+	
+14	Failure to abide by these guidelines will result in immediate termination of my privileges to access to these data.
